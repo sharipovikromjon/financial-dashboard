@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+# /app/lib - contains reuseable utility and data fetching functions
+# /app/ui - contains all ui components ex: cards, tables, forms.
+# /public - contains all statics things like images, icons
+///////
+# Tailwind and CSS modules are the two most common ways of styling Next.js applications.
+# You can even you both in the same application
+///////
+# Nextjs uses file-system routing where folders are used to create nested routes.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## app - Root segment
+# /app/dashboard - Segment
+# /app/dashboard/profile - Leaf segment
